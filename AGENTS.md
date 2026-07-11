@@ -1,7 +1,9 @@
 # aws-iam-checker
 
-CLI tool for aws iam checker.
+AWS IAM role and policy checker CLI.
 
 ## For AI agents
-- Run `python3 scripts/cli.py --help`
-- Use `--json` flag for machine-readable output
+- scripts/check.py lists IAM roles via AWS CLI
+- Use --json for structured output
+- Detects and flags unused roles
+- Requires AWS CLI installed and configured
