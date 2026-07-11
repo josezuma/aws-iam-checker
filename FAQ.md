@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is aws-iam-checker?
-Check AWS IAM roles and policies from CLI.
+A CLI tool for aws iam checker.
 
 ## Dependencies?
 Python stdlib only.
